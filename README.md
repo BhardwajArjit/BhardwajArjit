@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arjit Bhardwaj</h1>
-<h3 align="center">Aspiring ML Engineer | Android Developer</h3>
+<h3 align="center">Aspiring Data Scientist | Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwajarjit&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwajarjit" /> </p>
 
-- 🔭 I’m currently working with **Lean Angels as a Data Engineer Intern**
+- 🔭 I’m currently working on **Case Study on Indian Energy Sector**
 
 - 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhardwajArjit](https://github.com/BhardwajArjit)
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Android Development, Database Management, Python**
+- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Android Development, Database Management**
 
 - 📫 How to reach me **iamarjitbhardwaj@gmail.com**
 
