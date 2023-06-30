@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Case Study on Indian Energy Sector**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhardwajArjit](https://github.com/BhardwajArjit)
 
