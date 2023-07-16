@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhardwajarjit&label=Profile%20views&color=0e75b6&style=flat" alt="bhardwajarjit" /> </p>
 
-- 🔭 I’m currently working on **Case Study on Indian Energy Sector**
+- 🔭 I’m currently working on **Case Study on World Energy Sector**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
