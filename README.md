@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Case Study on World Energy Sector**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Remote Sensing Image Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhardwajArjit](https://github.com/BhardwajArjit)
 
