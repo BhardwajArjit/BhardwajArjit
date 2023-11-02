@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Autonomous Navigation**
 
-- 🌱 I’m currently learning **Replicating Research Papers**
+- 🌱 I’m currently learning **help machines see**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhardwajArjit](https://github.com/BhardwajArjit)
 
