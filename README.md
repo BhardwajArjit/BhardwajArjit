@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **help machines see**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BhardwajArjit](https://github.com/BhardwajArjit)
+- 👨‍💻 [View my website](https://iamarjitbhardwaj.wixsite.com/arjit-bhardwaj)
 
 - 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Database Management**
 
