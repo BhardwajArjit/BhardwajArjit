@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology.</b>
+<b>A student, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology.</b>
 
 </p>
 
