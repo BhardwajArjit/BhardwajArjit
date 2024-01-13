@@ -22,15 +22,13 @@
 
 </p>
 
--   🔭 I'm currently working on **Autonomous Navigation**
+<p align="center">
 
--   🌱 I'm currently learning **help machines see**
+<b>A Software Developer, with excellent problem solving skills,
+passionate about ML and Open Source, talks about Research and Innovation
+in Modern Technology.</b>
 
--   👨‍💻 [View my website](https://iamarjitbhardwaj.wixsite.com/arjit-bhardwaj)
-
--   💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Database Management**
-
--   📫 How to reach me [**iamarjitbhardwaj\@gmail.com**](mailto:iamarjitbhardwaj@gmail.com){.email}
+</p>
 
 <h3 align="left">
 
