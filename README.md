@@ -73,37 +73,51 @@
 
 </p>
 
+## Connect with me
 
-<h3 align="left">
+<a href="https://www.linkedin.com/in/arjit-bhardwaj-980a46227/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+</a>
+<a href = "https://mail.google.com/mail/u/0/?fs=1&to=iamarjitbhardwaj@gmail.com&tf=cm" target = "_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/arjitdsce" target="_blank">
+<img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="kaggle" style="margin-bottom: 5px;"/>
+</a>
 
-Connect with me:
 
-</h3>
+## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
 
-<p align="left">
+<img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&amp;logoColor=white&amp;style=for-the-badge"/>
 
-<a href="https://linkedin.com/in/arjit-bhardwaj-980a46227" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjit-bhardwaj-980a46227" align="center" height="30" width="40"/></a>
 
-</p>
+## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 
-<h3 align="left">
+### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://iamarjitbhardwaj.wixsite.com/arjit-bhardwaj"> <img src="https://img.shields.io/badge/my_website-F4D03F.svg?&amp;style=for-the-badge&amp;logo=website&amp;logoColor=white"/> </a> :100:
 
-Languages and Tools:
+## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
 
-</h3>
+<img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&amp;style=for-the-badge&amp;logo=amd&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&amp;logo=hp&amp;logoColor=white"/>
 
-<p align="left">
+<br>
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 
-</p>
+**Visitors Count**\
+![VisitorCount](https://profile-counter.glitch.me/%7BBhardwajArjit%7D/count.svg)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhardwajarjit&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="bhardwajarjit" align="left"/></p>
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=bhardwajarjit&amp;show_icons=true&amp;locale=en" alt="bhardwajarjit" align="center"/></p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwajarjit&amp;" alt="bhardwajarjit" align="center"/>
-
-</p>
