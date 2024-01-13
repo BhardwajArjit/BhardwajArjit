@@ -84,11 +84,23 @@
 <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="kaggle" style="margin-bottom: 5px;"/>
 </a>
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
+
 
 ## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
 
 <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&amp;logoColor=white&amp;style=for-the-badge"/>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
 
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
@@ -107,7 +119,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
+
 ### :heavy_check_mark: Wanted to know more about me, Visit <a href = "https://iamarjitbhardwaj.wixsite.com/arjit-bhardwaj"> <img src="https://img.shields.io/badge/my_website-F4D03F.svg?&amp;style=for-the-badge&amp;logo=website&amp;logoColor=white"/> </a> :100:
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -116,10 +140,22 @@
 
 <br>
 
+<p align="center">
 
-**Visitors Count**
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
+
+
+## Visitors Count
 
 <img src="https://komarev.com/ghpvc/?username=bhardwajarjit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bhardwajarjit" /> 
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
 
 ## Examples of my work
 
@@ -128,4 +164,10 @@
   <img src="https://github.com/BhardwajArjit/BhardwajArjit/assets/109625851/e279746b-ee29-4104-b3aa-83bfae62ca55" width="200" height="150" alt="GIF 3">
   <img src="https://github.com/BhardwajArjit/BhardwajArjit/assets/109625851/e8d1eb64-d4d4-4a63-a102-f9bbe8e32182" width="200" height="150" alt="GIF 2">
   <img src="https://github.com/BhardwajArjit/BhardwajArjit/assets/109625851/e02a9d68-0d79-4b1e-92bd-bff7978063bf" width="200" height="150" alt="GIF 4">
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
 </p>
