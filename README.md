@@ -24,11 +24,11 @@
 
 
 <br> 
-<p align="left"> :star: Looking forward to have a successful professional career as a Machine Learning Engineer <p>
-<p align="left"> :nerd_face: Currently working on Computer Vision </p>
-<p align="left"> :snowflake: Education: Dayananda Sagar College of Engineering, Bangalore in B.E Computer Science and Engineering. Passout batch: 2023 </p>
-<p align="left"> 🚀 Love to talk about Research and Innovation! </p>
-<p align="left"> 💻 Participated in different Open Source Programs as, a Participant </p>
+<p align="left"> :star: Looking forward to have a successful professional career as a <b>Machine Learning Engineer</b> <p>
+<p align="left"> :nerd_face: Currently working on <b>Computer Vision</b> </p>
+<p align="left"> :snowflake: Education: <b>B.E Computer Science and Engineering (Pursuing)</b> </p>
+<p align="left"> 🚀 Love to talk about <b>Research and Innovation!</b> </p>
+<p align="left"> 💻 Participated in different Open Source Programs as, a <b>Participant</b> </p>
 <p align="left"> In short :beer:, I love to work on new technologies. :heart: </p>
 
 <p align="left"> :sleeping: Fun Fact about me: I used to listen music during the time of coding! </p>
