@@ -18,16 +18,16 @@
 
 <p align="center">
 
-<b>A student, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology.</b>
+<b>👨‍💻 Tech Enthusiast | ML Passionate | Open Source Contributor | Committed to Problem Solving | Advocate for Research and Innovation in Modern Technology 🚀.</b>
 
 </p>
 
 
 <br> 
 <p align="left"> :star: Looking forward to have a successful professional career as a <b>Machine Learning Engineer</b> <p>
-<p align="left"> :nerd_face: Currently working on <b>Computer Vision</b> </p>
-<p align="left"> :snowflake: Education: <b>B.E Computer Science and Engineering (Pursuing)</b> </p>
-<p align="left"> 🚀 Love to talk about <b>Research and Innovation!</b> </p>
+<p align="left"> :nerd_face: Currently working on <b>Improving Autonomous Navigation System with IIT Hyderabad</b> </p>
+<p align="left"> :snowflake: Education: <b>B.E Computer Science and Engineering (Pursuing) at Dayananda Sagar College of Engineering, Bangalore</b> </p>
+<p align="left"> 🚀 Love to talk about <b>Artificial Intelligence, Machine Learning, Deep Learning, Research and Innovation!</b> </p>
 <p align="left"> 💻 Participated in different Open Source Programs as, a <b>Participant</b> </p>
 <p align="left"> In short :beer:, I love to work on new technologies. :heart: </p>
 
@@ -54,7 +54,6 @@
 </p>
 
 <div align="center">
-
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhardwajArjit&theme=dracula&hide_border=true)
 <p align="center">
@@ -118,8 +117,9 @@
 <br>
 
 
-**Visitors Count**\
-![VisitorCount](https://profile-counter.glitch.me/%7BBhardwajArjit%7D/count.svg)
+**Visitors Count**
+
+<img src="https://komarev.com/ghpvc/?username=bhardwajarjit&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bhardwajarjit" /> 
 
 ## Examples of my work
 
