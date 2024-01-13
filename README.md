@@ -18,11 +18,15 @@
 
 <p align="center">
 
-<b>A Software Developer, with excellent problem solving skills,
-passionate about ML and Open Source, talks about Research and Innovation
-in Modern Technology.</b>
+<b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology.</b>
 
 </p>
+
+<br> :::
+
+:star: Looking forward to have a successful professional career as a **Machine Learning Engineer** <br> :nerd_face: Currently working on **Computer Vision** <br> :snowflake: Education: **Dayananda Sagar College of Engineering, Bangalore** in **B.E Computer Science and Engineering**. Passout batch: 2023 <br> 🚀 Love to talk about **Research and Innovation!** <br> <br> 💻 Participated in different Open Source Programs as, **a Participant** <br> **In short :beer:, I love to work on new technologies. :heart:** <br>
+
+*:sleeping: Fun Fact about me: I used to listen music during the time of coding!*
 
 <h3 align="left">
 
