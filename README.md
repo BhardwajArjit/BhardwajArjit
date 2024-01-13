@@ -47,6 +47,32 @@
 |     [**Naveen Kumar K**](https://www.linkedin.com/in/naveen-kumar-k-a035a2129/)     | I wholeheartedly endorse Mr. Arjit Bhardwaj for his unwavering dedication and exceptional performance during the internship. His rapid learning and proactive adaptability are truly commendable. Arjit consistently embraced tasks with enthusiasm, demonstrating a sincere commitment to excellence. I confidently recommend him for any future endeavors, as his qualities make him an asset to any team or project. |
 |    [**Dr.D.R.Ramesh Babu**](https://www.linkedin.com/in/dr-d-r-ramesh-babu-865b7b1a/)   | Arjit is a person who has the clarity about his ambitions. As a mentor and advisor, I have seen the evolution of his thinking process and problem solving skills. He has got a unique ability of focusing on the core skills, that are required to be an excellent data scientist. Moreover, he is a good team player and has got tremendous leadership skills to lead a team of enthusiastic people. 
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
+
+<div align="center">
+
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhardwajArjit&theme=dracula&hide_border=true)
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
+
+![GitHub Stats](https://github-readme-stats-mu-dusky.vercel.app/api?username=BhardwajArjit&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20Stats)
+
+</div>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=2.5"/>
+
+</p>
+
 
 <h3 align="left">
 
