@@ -121,3 +121,11 @@
 **Visitors Count**\
 ![VisitorCount](https://profile-counter.glitch.me/%7BBhardwajArjit%7D/count.svg)
 
+## Examples of my work
+
+<p align="center">
+  <img src="https://github.com/BhardwajArjit/BhardwajArjit/assets/109625851/5462e574-ffc1-4ef8-8451-98bca8e6f154" width="200" height="150" alt="GIF 1">
+  <img src="https://github.com/BhardwajArjit/BhardwajArjit/assets/109625851/e279746b-ee29-4104-b3aa-83bfae62ca55" width="200" height="150" alt="GIF 3">
+  <img src="https://github.com/BhardwajArjit/BhardwajArjit/assets/109625851/e8d1eb64-d4d4-4a63-a102-f9bbe8e32182" width="200" height="150" alt="GIF 2">
+  <img src="https://github.com/BhardwajArjit/BhardwajArjit/assets/109625851/e02a9d68-0d79-4b1e-92bd-bff7978063bf" width="200" height="150" alt="GIF 4">
+</p>
