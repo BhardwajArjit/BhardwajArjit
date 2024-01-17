@@ -31,7 +31,7 @@
 <p align="left"> 💻 Participated in different Open Source Programs as, a <b>Participant</b> </p>
 <p align="left"> In short :beer:, I love to work on new technologies. :heart: </p>
 
-<p align="left"> :sleeping: Fun Fact about me: I used to listen music during the time of coding! </p>
+<p align="left"> :sleeping: Fun Fact about me: I listen Taylor Swift's songs during the time of coding! </p>
 
 <p align="center">
 
