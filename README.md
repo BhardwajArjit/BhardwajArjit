@@ -75,7 +75,7 @@
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/arjit-bhardwaj-980a46227/" target="_blank">
+<a href="https://www.linkedin.com/in/arjitbhardwaj/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 <a href = "https://mail.google.com/mail/u/0/?fs=1&to=iamarjitbhardwaj@gmail.com&tf=cm" target = "_blank">
