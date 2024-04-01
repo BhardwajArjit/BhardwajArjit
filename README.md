@@ -25,7 +25,7 @@
 
 <br> 
 <p align="left"> :star: Looking forward to have a successful professional career as a <b>Machine Learning Engineer</b> <p>
-<p align="left"> :nerd_face: Currently working on <b>Improving Autonomous Navigation System with IIT Hyderabad</b> </p>
+<p align="left"> :nerd_face: Currently working as a <b>Deep Learning Intern at Indian Space Research Organisation (ISRO)</b> </p>
 <p align="left"> :snowflake: Education: <b>B.E Computer Science and Engineering (Pursuing) at Dayananda Sagar College of Engineering, Bangalore</b> </p>
 <p align="left"> 🚀 Love to talk about <b>Artificial Intelligence, Machine Learning, Deep Learning, Research and Innovation!</b> </p>
 <p align="left"> 💻 Participated in different Open Source Programs as, a <b>Participant</b> </p>
